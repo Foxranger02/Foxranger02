@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Foxranger02
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Udhay
+- 👀 Currently an engineering student
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on email.
+- 📫 You can reach me on email(udhaya4002@gmail.com)
 
 <!---
 Foxranger02/Foxranger02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
