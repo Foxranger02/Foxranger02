@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Udhay
 - 👀 Currently an engineering student
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and doing some projects
 - 📫 You can reach me on email(udhaya4002@gmail.com)
 
 <!---
